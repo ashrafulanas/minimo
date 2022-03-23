@@ -1,0 +1,163 @@
+/* // Small devices (landscape phones, 576px and up) */
+@media (max-width: 575.98px) {
+  .menu ul li a {
+    font-size: 20px;
+    padding: 10px 0 0 !important;
+    text-align: right;
+  }
+  .custom-text-center {
+    text-align: center;
+  }
+
+  .slider-text {
+    padding-top: 15px;
+  }
+
+  .custom_Indicator {
+    bottom: -60px !important;
+  }
+
+  .custom_Indicator [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #fff;
+  }
+
+  .slider-text h1 {
+    font-size: 25px;
+  }
+  .slider-text h3 {
+    margin: 15px 0;
+    font-size: 18px;
+  }
+  .slider-text p {
+    margin-bottom: 16px;
+    text-align: justify;
+  }
+  .fontawesome ul li {
+    margin-right: 20px !important;
+  }
+  .fontawesome ul li i {
+    color: #000;
+    font-size: 35px;
+  }
+  .feature {
+    padding-top: 50px;
+    padding-bottom: 70px;
+  }
+
+  .common_h1 {
+    margin-bottom: 10px;
+    font-size: 25px;
+  }
+  .common_p {
+    font-size: 17px;
+    color: #313841;
+    line-height: 25px;
+  }
+
+  .feature-item {
+    margin-top: 30px;
+  }
+  .feature-text {
+    text-align: center;
+  }
+  .feature-icon i {
+    font-size: 35px;
+  }
+  .feature-text h2 {
+    margin-bottom: 5px;
+    font-size: 20px;
+  }
+  .feature-text p {
+    letter-spacing: 0px;
+  }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .menu ul li a {
+    padding: 10px 0 0 !important;
+    font-size: 20px;
+    text-align: right;
+  }
+  .custom-text-center {
+    text-align: center;
+  }
+  .slider-text {
+    padding-top: 15px;
+  }
+
+  .custom_Indicator {
+    bottom: -60px !important;
+  }
+
+  .custom_Indicator [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #fff;
+  }
+
+  .slider-text h1 {
+    font-size: 30px;
+  }
+  .slider-text h3 {
+    margin: 15px 0;
+    font-size: 20px;
+  }
+  .slider-text p {
+    margin-bottom: 16px;
+    text-align: justify;
+  }
+  .fontawesome ul li {
+    margin-right: 20px !important;
+  }
+  .fontawesome ul li i {
+    color: #000;
+    font-size: 35px;
+  }
+  .feature {
+    padding-top: 50px;
+    padding-bottom: 70px;
+  }
+  .feature-item {
+    margin-top: 30px;
+  }
+  .feature-text {
+    text-align: center;
+  }
+  .feature-icon i {
+    font-size: 35px;
+  }
+  .feature-text h2 {
+    margin-bottom: 5px;
+    font-size: 20px;
+  }
+  .feature-text p {
+    letter-spacing: 0px;
+  }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header start */
+
+  .menu ul li a {
+    padding: 10px 0 0 !important;
+    text-align: right;
+  }
+  .feature {
+    padding-top: 70px;
+    padding-bottom: 90px;
+  }
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1200px) {
+}

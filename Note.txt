@@ -1,0 +1,69 @@
+Font list {
+ 
+
+font{
+     
+Playfairdisplay regular
+Ubuntu light
+}
+
+
+ menu font color #626262 14px
+ 
+ heading p font color #b4ad9e 14px
+
+ header font color #626262 30px
+
+ News Letter section header #333333 30px
+ news letter span #333333
+ news letter section background #f0f0f0
+
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+
+Asset gather{
+Logo
+Image 
+Icon
+fonts
+text 
+}
+
+
+body{
+    margin
+    padding
+    font-family
+    font-size
+    font-weight
+    color
+    text-transform
+    text-align
+    line-height
+    letter spacing
+    word spacing
+    width
+    height
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
